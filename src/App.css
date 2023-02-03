@@ -1,8 +1,22 @@
 .App {
-  text-align: center;
+    font-family: "Poppins";
+    font-size: 27px;
+    text-align: center;
+    border: 1em outset rgba(205, 139, 87, 55);
+    text-align: center;
+    background-color: #f4f6fd;
+    background-image: url(./images/todoAppBackgroundImg.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-width: 90vw;
+    min-height: 90vh;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -11,8 +25,8 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
-
+} */
+/* 
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +49,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

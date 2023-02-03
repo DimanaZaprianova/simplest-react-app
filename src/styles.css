@@ -1,0 +1,13 @@
+.App {
+    font-family: "Poppins";
+    font-size: 27px;
+    border: 1em outset rgba(205, 139, 87, 55);
+    text-align: center;
+    background-color: #f4f6fd;
+    background-image: url(./images/todoAppBackgroundImg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 2rem;
+}
